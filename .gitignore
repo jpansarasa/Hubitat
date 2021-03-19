@@ -1,0 +1,10 @@
+logs/
+temp/
+data/
+.vscode/
+.creds/
+.env
+*~
+*.swp
+.pyc
+**/__pycache__
